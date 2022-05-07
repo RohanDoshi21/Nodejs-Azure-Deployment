@@ -41,7 +41,7 @@ ctrl+C
 ## 7. Setup PM2 process manager to keep your app running
 ```
 sudo npm i pm2 -g
-pm2 start app (or whatever your file name)
+pm2 start app
 
 # Other pm2 commands
 pm2 show app
