@@ -1,6 +1,4 @@
-# Node.js Deployment
-
-> Steps to deploy a Node.js app to Axure using PM2, NGINX as a reverse proxy
+> Steps to deploy a Node.js app to Azure using PM2, NGINX as a reverse proxy
 
 ## 1. Sign up for Azure
 
